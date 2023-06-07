@@ -109,7 +109,7 @@ will look the same).
   to staking. In the example the bonded balance is 0.4 KSM.
 - The **democracy** balance indicates the number of tokens that are _locked_ for on-chain
   participation to democracy (i.e. voting for referenda and council). In the example, the democracy
-  balance is 0.4 KSM.
+  balance is 0.55 KSM.
 - The **redeemable** balance indicates the number of tokens that are ready to be unlocked to become
   transferrable again. Those tokens already went through the unbonding period. In this case, the
   redeemable balance is 0.1 KSM.
